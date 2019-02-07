@@ -14,14 +14,14 @@
     "reg-keygen-git-hash-plugin": "^0.7.16",
     "reg-notify-github-plugin": "^0.7.19",
     "reg-publish-gcs-plugin": "^0.7.16",
-    "reg-suit": "^0.7.17"
+    "reg-suit": "^0.7.17",
+    "zisui": "^1.2.2"
   },
   "dependencies": {
     "big.js": "^5.1.2",
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "zisui": "^1.2.2"
+    "react-dom": "^16.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
