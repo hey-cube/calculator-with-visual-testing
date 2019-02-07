@@ -6,7 +6,7 @@ import '../component/Button.css';
 storiesOf('Button', module)
   .add('normal', () => (
     <Button
-      name="1"
+      name="2"
       orange={false}
       wide={false}
       clickHandler={() => console.log('click handler')}
